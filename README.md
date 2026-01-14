@@ -1,5 +1,5 @@
 # Discord-Nuke-Bot
-A Discord Nuke Bot Made By TheAxes [ Give Credits ] If You Use
+A Discord Nuke Bot Made By Black [ Give Credits ] If You Use
 
  # Updated Version 2
 
