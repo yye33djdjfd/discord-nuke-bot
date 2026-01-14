@@ -16,7 +16,7 @@ prefix = input(f"Enter Prefix For Your Bot: ")
 #enter Your User id like - Example#6969
 owner = input(f"Enter Your Username With Tag: ")
 
-SPAM_CHANNEL =  "Nuke Test"
+SPAM_CHANNEL =  "by-bl2ck"
 SPAM_MESSAGE = "@everyone Nuked ","@everyone Cry About it","@everyone  Beamed @everyone ","@everyone Nuked "
 
 client = commands.Bot(command_prefix=prefix)
@@ -37,7 +37,7 @@ print('''
 ██╔══██╗██║░░██║░░░██║░░░
 ██████╦╝╚█████╔╝░░░██║░░░
 ╚═════╝░░╚════╝░░░░╚═╝░░░
-           Made By TheAxe
+           Made By Black
 ''' + 
          
  
